@@ -181,16 +181,12 @@ Dashboards & Reporting
 ```text
 Transportation-Analytics-Lakehouse/
 │
-├── 1. source_data/
+├── 1. data/
 │
-├── 2. notebooks/
+├── 2. codes/
 │
 ├── 3. other_files/
 │   ├── architecture.png
-│
-├── pipelines/
-│
-├── sql/
 │
 └── README.md
 ```
